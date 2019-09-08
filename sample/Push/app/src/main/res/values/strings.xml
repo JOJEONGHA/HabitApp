@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Push Sample</string>
+    <string name="channel_name">First Push example</string>
+    <string name="channel_description">First Push example description</string>
 </resources>
