@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onTick(long millisUntilFinished) {
-
+                System.out.printf("testing");
             }
 
             public void onFinish() {
